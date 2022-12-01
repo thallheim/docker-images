@@ -1,5 +1,5 @@
-tor  1 dec 2022 17:26:38: lsp_cxx_hl beginning initialization...
-tor  1 dec 2022 17:26:38: vim-lsp not detected
-tor  1 dec 2022 17:26:38: LanguageClient-neovim not detected
-tor  1 dec 2022 17:26:38: coc.nvim successfully registered
-tor  1 dec 2022 17:26:38: nvim-lsp successfully registered
+tor  1 dec 2022 17:30:15: lsp_cxx_hl beginning initialization...
+tor  1 dec 2022 17:30:15: vim-lsp not detected
+tor  1 dec 2022 17:30:15: LanguageClient-neovim not detected
+tor  1 dec 2022 17:30:15: coc.nvim successfully registered
+tor  1 dec 2022 17:30:15: nvim-lsp successfully registered
