@@ -8,3 +8,8 @@ tor  1 dec 2022 17:31:12: vim-lsp not detected
 tor  1 dec 2022 17:31:12: LanguageClient-neovim not detected
 tor  1 dec 2022 17:31:12: coc.nvim successfully registered
 tor  1 dec 2022 17:31:12: nvim-lsp successfully registered
+tor  1 dec 2022 17:32:56: lsp_cxx_hl beginning initialization...
+tor  1 dec 2022 17:32:56: vim-lsp not detected
+tor  1 dec 2022 17:32:56: LanguageClient-neovim not detected
+tor  1 dec 2022 17:32:56: coc.nvim successfully registered
+tor  1 dec 2022 17:32:56: nvim-lsp successfully registered
